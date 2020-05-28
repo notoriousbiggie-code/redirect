@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<?php
 <html>
    <head>
       <title>Clickfunnels.com</title>
@@ -8,3 +8,4 @@
       <p></p>
    </body>
 </html>
+?>
